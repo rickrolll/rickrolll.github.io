@@ -1,0 +1,16 @@
+body {
+    background: rgb(0,27,36);
+    background: linear-gradient(90deg, rgba(0,27,36,1) 0%, rgba(0,202,255,1) 0%, rgba(1,70,185,1) 100%);
+}
+
+strong {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    color: white;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    color: white;
+}
